@@ -1,0 +1,9 @@
+{
+  "name": "SAVRAKSH - Women's Safety",
+  "description": "A premium, minimalist iOS-style women's safety app featuring AI-powered protection, SOS systems, and real-time safety insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
